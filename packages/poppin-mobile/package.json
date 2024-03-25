@@ -1,0 +1,9 @@
+{
+  "name": "poppin-mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "^0.73.6"
+  }
+}

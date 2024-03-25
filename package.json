@@ -1,0 +1,10 @@
+{
+  "name": "poppin-app",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "core-js": "^3.36.1"
+  }
+}
